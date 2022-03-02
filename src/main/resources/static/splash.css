@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+
+header div{
+	display: flex;
+	align-content: space-between;
+	align-items: center;
+}
